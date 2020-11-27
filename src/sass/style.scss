@@ -206,9 +206,28 @@ color: #18214d;
     border-top: 3px solid #50e3c2;
 }
 
-.google-text{
+.features__text{
     color:#3e4462;
     position: relative;
     max-width: 760px;
     text-align: center;
+    font-family: Mukta;
+    font-weight: 400;
+    font-size: 18.08px;
+}
+
+.elementor-rows{
+    display: flex;
+    margin: 95px 0;
+    padding: 0 50px;
+    box-sizing: border-box;
+    position: relative;
+    align-content:center;
+    align-items:center;
+    margin: 25px 0;
+}
+
+.Amazing-row-item{
+   
+    
 }

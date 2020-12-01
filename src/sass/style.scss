@@ -92,7 +92,7 @@ align-items: center;
     letter-spacing: 2px;
 }
 
-.header-control button {
+.ByButton {
     padding-top: 7px;
     padding-right: 20px;
     padding-bottom: 7px;
@@ -227,4 +227,57 @@ color: #18214d;
     margin: 25px 0;
 }
 
+
+
+.footer {
+    background-color: #3a3e64;
+}
+
+.footer__inner {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 70px 0;
+}
+
+.footer__block {
+    width: 33.33333%;
+    padding: 0 15px;
+
+    text-align: center;
+}
+
+.footer__title {
+    margin-bottom: 10px;
+
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.footer__address {
+    font-size: 14px;
+    line-height: 1.5;
+    font-style: normal;
+    color: rgba(255, 255, 255, .5);
+}
+
+.footer__text {
+    font-size: 14px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, .5);
+}
+
+.copyright {
+    padding: 20px 0;
+
+    background-color: #313454;
+}
+
+.copyright__text {
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #808080;
+}
 

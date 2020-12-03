@@ -181,6 +181,35 @@ font-size: 64px;
 color: #18214d;
 }
 
+.Amazing-row-text{
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 95px 0;
+
+}
+
+.Amazing-rows{
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.Amazing-rows-item{
+    width:50%;
+    text-align: center;
+}
+
+
+
+
+
+.elementor-page-editor{
+width: 100%;
+
+}
+
+
 .features{
     display: flex;
     flex-wrap: wrap;
